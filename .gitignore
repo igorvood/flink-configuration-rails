@@ -1,0 +1,6 @@
+#Custom
+target/
+.idea
+dependency-reduced-pom.xml
+*.iml
+allure-results/
